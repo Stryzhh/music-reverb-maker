@@ -2,7 +2,7 @@
 If you find any issues please post them in the issues section, also star this repository if you like the application - download [here](https://github.com/Stryzhh/music-reverb-maker/releases).
 
 ## Overview
-Slow and reverb your music without hassle.
+Slow and reverb your music without hassle and download the modified audio if you like it!
 
 ## Features
 
